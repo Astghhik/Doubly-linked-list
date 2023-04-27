@@ -1,5 +1,6 @@
 # Doubly-linked-list
-Doubly Linked List in C++ is very similar to a linked list, except that each node also contains a pointer to the node previous to the current one. This means that in a doubly linked list in C++ we can travel not only in the forward direction, but also in the backward direction, which was not possible with a palin linked list in C++
+Doubly Linked List in C++ is very similar to a linked list, except that each node also contains a pointer to the node previous to the current one.
+This means that in a doubly linked list in C++ we can travel not only in the forward direction, but also in the backward direction, which was not possible with a palin linked list in C++.
 
     Data: Information that the linked list contains.
     "*"prev: Pointer to the previous node.
